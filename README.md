@@ -1,13 +1,13 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00C8FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;Java+%7C+Python+%7C+Spring+Boot+%7C+Angular;AI+and+Cybersecurity+Enthusiast;Future+Defense+Industry+Engineer" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00C8FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;Java+%7C+Python+%7C+Spring+Boot+%7C+Angular;AI+and+Cybersecurity+Enthusiast" alt="Typing Animation"/>
 </p>
 
 ---
 
 # 👋 Hi, I'm Ayse
 
-🎓 Computer Engineering Student | 💻 Software Developer | 🔐 AI & Defense Enthusiast  
+🎓 Computer Engineering Student | 💻 Software Developer | 🔐 AI Enthusiast  
 
 I love turning **ideas into projects** and exploring the boundaries between **software, electronics, and AI**.  
 Currently focused on **Java, Spring Boot, Angular, and Artificial Intelligence**, with a passion for **defense technologies**.  
@@ -37,7 +37,6 @@ Currently focused on **Java, Spring Boot, Angular, and Artificial Intelligence**
 ## 📌 Featured Projects
 - 📒 **Contact Directory (Java, Binary Search Tree)** – Console app for contact management.  
 - ✅ **Task Tracker (Spring Boot + Angular)** – Full-stack app with JWT authentication.  
-- 🔐 **Knock Lock (Arduino)** – Security project using vibration detection.  
 
 ---
 
